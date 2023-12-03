@@ -1,0 +1,3 @@
+C:/Users/joaqu/CLionProjects/Taller2V2/cmake-build-debug/CMakeFiles/Taller2V2.dir
+C:/Users/joaqu/CLionProjects/Taller2V2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/joaqu/CLionProjects/Taller2V2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
